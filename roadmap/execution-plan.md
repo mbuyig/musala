@@ -41,4 +41,5 @@ At the beginning of each phase:
 2. Replace the contents of [../tracking/now.md](../tracking/now.md) with the
    current phase checklist.
 3. Choose the week's top three priorities.
-4. Confirm that the next portfolio artefact is clear and demonstrable.
+4. Confirm that the next artefact in the
+   [portfolio index](../portfolio/README.md) is clear and demonstrable.

@@ -47,6 +47,8 @@ By the end of July 2026:
 | [Current focus](tracking/now.md) | This week's actions and notes | Weekly |
 | [Execution plan](roadmap/execution-plan.md) | Phase-by-phase navigation | Monthly |
 | [Commercial playbook](roadmap/commercial-playbook.md) | Offers, positioning and market activity | Monthly |
+| [Portfolio index](portfolio/README.md) | Certifications and their evidence artefacts | At the end of each phase |
+| [Templates](templates/README.md) | Case studies, ADRs and quarterly reviews | When creating an artefact |
 | [Market log](tracking/market-log.md) | Roles, recruiters, rates and keyword evidence | As opportunities appear |
 | [Decision log](tracking/decision-log.md) | Important roadmap changes and their rationale | When the plan changes |
 | [Lab costs](tracking/lab-costs.md) | AWS spending, unexpected charges and teardown checks | Weekly and monthly |
@@ -74,6 +76,13 @@ By the end of July 2026:
 │   ├── full-roadmap.md
 │   ├── execution-plan.md
 │   └── commercial-playbook.md
+├── portfolio/
+│   └── README.md
+├── templates/
+│   ├── README.md
+│   ├── architecture-decision-record.md
+│   ├── case-study.md
+│   └── quarterly-review.md
 └── tracking/
     ├── decision-log.md
     ├── lab-costs.md
