@@ -8,6 +8,9 @@ replace the placeholders.
 |---|---|
 | [Case study](case-study.md) | Explaining a portfolio build in business and consulting terms |
 | [Architecture decision record](architecture-decision-record.md) | Recording an important design choice and its trade-offs |
+| [Interview talk track](interview-talk-track.md) | Preparing a concise explanation and technical follow-up prompts |
+| [Portfolio deliverable](portfolio-deliverable.md) | Scoping a new portfolio phase with clear evidence and a definition of done |
+| [Portfolio README](portfolio-readme.md) | Giving reviewers a clear ten-minute path through a substantial project |
 | [Quarterly review](quarterly-review.md) | Reviewing progress, market evidence and roadmap changes |
 
 ## Practical Rule

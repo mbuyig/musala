@@ -43,3 +43,5 @@ At the beginning of each phase:
 3. Choose the week's top three priorities.
 4. Confirm that the next artefact in the
    [portfolio index](../portfolio/README.md) is clear and demonstrable.
+5. Open the relevant [portfolio phase brief](../portfolio/deliverables.md) and
+   use its definition of done to control scope.

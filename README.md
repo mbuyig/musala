@@ -48,6 +48,7 @@ By the end of July 2026:
 | [Execution plan](roadmap/execution-plan.md) | Phase-by-phase navigation | Monthly |
 | [Commercial playbook](roadmap/commercial-playbook.md) | Offers, positioning and market activity | Monthly |
 | [Portfolio index](portfolio/README.md) | Certifications and their evidence artefacts | At the end of each phase |
+| [Portfolio deliverables](portfolio/deliverables.md) | Scope, alignment and definition of done for each portfolio phase | Before and during each phase |
 | [Templates](templates/README.md) | Case studies, ADRs and quarterly reviews | When creating an artefact |
 | [Market log](tracking/market-log.md) | Roles, recruiters, rates and keyword evidence | As opportunities appear |
 | [Decision log](tracking/decision-log.md) | Important roadmap changes and their rationale | When the plan changes |
@@ -77,11 +78,19 @@ By the end of July 2026:
 │   ├── execution-plan.md
 │   └── commercial-playbook.md
 ├── portfolio/
-│   └── README.md
+│   ├── README.md
+│   ├── acme-digital-services.md
+│   ├── deliverables.md
+│   └── phases/
+│       ├── README.md
+│       ├── 01-aws-landing-zone-baseline.md
+│       ├── ...
+│       └── 09-kubernetes-security-enhancements.md
 ├── templates/
 │   ├── README.md
 │   ├── architecture-decision-record.md
 │   ├── case-study.md
+│   ├── portfolio-deliverable.md
 │   └── quarterly-review.md
 └── tracking/
     ├── decision-log.md
