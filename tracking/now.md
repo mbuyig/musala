@@ -1,9 +1,13 @@
 # Current Focus
 
 **Phase:** June-July 2026 - AWS Solutions Architect Associate  
+**Week starting:** 1 June 2026  
 **Outcome:** Build a credible AWS architecture baseline and prepare for the
 security-focused phases that follow.  
 **Detailed roadmap:** [Open phase](../roadmap/full-roadmap.md#june-july-2026-aws-solutions-architect-associate)
+
+Keep only the active week in this file. At the end of the week, archive it using
+the [weekly template](weekly/template.md).
 
 ## Top Three Priorities
 
@@ -32,8 +36,6 @@ security-focused phases that follow.
 - [ ] Write a short README explaining the business problem and design decisions.
 
 ## This Week
-
-**Week starting:** 1 June 2026
 
 - [ ] Choose the SAA learning resource and study timetable.
 - [ ] Write the landing zone scope in one page or less.

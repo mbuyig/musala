@@ -20,6 +20,17 @@ focused files below when you need more detail, and use the
 
 Open [tracking/now.md](tracking/now.md) for the active checklist and weekly plan.
 
+## Progress
+
+Use only `Not started`, `In progress`, `Blocked`, or `Done`.
+
+| Area | Status |
+|---|---|
+| SAA study | Not started |
+| Landing zone baseline | Not started |
+| Architecture diagram | Not started |
+| Initial cost assumptions | Not started |
+
 ## Next Milestone
 
 By the end of July 2026:
@@ -37,6 +48,9 @@ By the end of July 2026:
 | [Execution plan](roadmap/execution-plan.md) | Phase-by-phase navigation | Monthly |
 | [Commercial playbook](roadmap/commercial-playbook.md) | Offers, positioning and market activity | Monthly |
 | [Market log](tracking/market-log.md) | Roles, recruiters, rates and keyword evidence | As opportunities appear |
+| [Decision log](tracking/decision-log.md) | Important roadmap changes and their rationale | When the plan changes |
+| [Lab costs](tracking/lab-costs.md) | AWS spending, unexpected charges and teardown checks | Weekly and monthly |
+| [Weekly archive](tracking/weekly/README.md) | Completed weekly plans and the reusable template | End of each week |
 | [Quarterly reviews](tracking/quarterly-reviews.md) | Decisions and course corrections | Quarterly |
 | [Full roadmap](roadmap/full-roadmap.md) | Detailed source of truth | When deeper context is needed |
 
@@ -46,8 +60,10 @@ By the end of July 2026:
 2. Pick up to three concrete priorities.
 3. Update the checklist during the week.
 4. Add market evidence to [tracking/market-log.md](tracking/market-log.md).
-5. Review progress at the end of the week.
-6. Update this dashboard only when the current phase changes.
+5. Update [tracking/lab-costs.md](tracking/lab-costs.md) after lab work.
+6. Archive the completed week using the [weekly template](tracking/weekly/template.md).
+7. Record significant plan changes in [tracking/decision-log.md](tracking/decision-log.md).
+8. Update this dashboard only when progress or the current phase changes.
 
 ## File Map
 
@@ -59,9 +75,14 @@ By the end of July 2026:
 │   ├── execution-plan.md
 │   └── commercial-playbook.md
 └── tracking/
+    ├── decision-log.md
+    ├── lab-costs.md
     ├── now.md
     ├── market-log.md
-    └── quarterly-reviews.md
+    ├── quarterly-reviews.md
+    └── weekly/
+        ├── README.md
+        └── template.md
 ```
 
 ## Maintenance Rule
